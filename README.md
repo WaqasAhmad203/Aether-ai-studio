@@ -72,7 +72,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/WaqasAhmad203/aether-ai-studio.git
+git clone https://github.com/WaqasAhmad203/Aether-ai-studio.git
 cd aether-ai-studio
 ```
 
